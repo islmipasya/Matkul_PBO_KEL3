@@ -1,4 +1,4 @@
-# Tugas MatkulPBO KEL3
+# Tugas MatkulPBO KEL 3
 
 Judul: Sistem Informasi Perpustakaan Kampus dengan Penerapan Enam Struktur Data.
 
